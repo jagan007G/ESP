@@ -133,7 +133,7 @@ ESP/
 ## Configure ESP-IDF Environment
 
 ```bash
-idf.py set-target esp32
+idf.py set-target esp32p4
 ```
 
 ## Build Project
