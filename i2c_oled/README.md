@@ -51,8 +51,8 @@ See the [Getting Started Guide](https://docs.espressif.com/projects/esp-idf/en/l
 I (308) main_task: Started on CPU0
 I (318) main_task: Calling app_main()
 I (318) example: Initialize I2C bus
-I (318) gpio: GPIO[3]| InputEn: 1| OutputEn: 1| OpenDrain: 1| Pullup: 1| Pulldown: 0| Intr:0
-I (328) gpio: GPIO[4]| InputEn: 1| OutputEn: 1| OpenDrain: 1| Pullup: 1| Pulldown: 0| Intr:0
+I (318) gpio: GPIO[7]| InputEn: 1| OutputEn: 1| OpenDrain: 1| Pullup: 1| Pulldown: 0| Intr:0
+I (328) gpio: GPIO[8]| InputEn: 1| OutputEn: 1| OpenDrain: 1| Pullup: 1| Pulldown: 0| Intr:0
 I (338) example: Install panel IO
 I (338) example: Install SSD1306 panel driver
 I (448) example: Initialize LVGL
